@@ -1,11 +1,16 @@
-# Students-Attendance-management-System-JAVA-
 
-## Java Project
+# Students-Attendance-management-System-JAVA.
 
-### This projec uses Swing for GUI. and uses files for databases.
+Hi! This is a Java based project for students attendance management. the programme uses files as data-base and Swing for GUI. The code is properly commented and understandable. 
 
-The code is properly commented and easily understandable.
+## Installing Plugins
+For the Editing the GUI using Windows builder is suggested. 
+To install Windows Builder
+- Open Eclipse.
+- Open help and click on Install new pplications.
+- coppy the following lionk below and click on final and  follow the instructions.
 
-Any suggestions ands comments are welcome.
+link - [http://download.eclipse.org/windowbuilder/latest/](http://download.eclipse.org/windowbuilder/latest/)
 
-Thank you.
+
+### For any comments or suggestions pls open an issue. 
